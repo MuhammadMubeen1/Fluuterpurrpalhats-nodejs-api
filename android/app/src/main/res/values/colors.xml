@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color for notifications -->
+    <color name="colorPrimary">#FF6B35</color> <!-- Replace with your TFND primary color -->
+    
+    <!-- You can add other colors if needed -->
+    <color name="colorPrimaryDark">#C85529</color>
+    <color name="colorAccent">#FF6B35</color>
+</resources>
